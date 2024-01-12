@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch Business Central Cloud",
+            "type": "al",
+            "request": "launch",
+            "server": "https://api.businesscentral.dynamics.com",
+            "serverInstance": "<environment name>",
+            "authentication": "MicrosoftEntraID",
+            "tenant": "<tenant id>",
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "launchBrowser": true,
+            "port": 443,
+            "environmentType": "<environment type>",
+            "environmentName": "<environment name>",
+            "startupObjectType": "Page",
+            "disableHttpRequestTimeout": false,
+          }
+    ]
+}
