@@ -62,3 +62,4 @@ A small extension (Codeunit) to Post the Journal entries in Microsoft Business C
 - https://community.dynamics.com/forums/thread/details/?threadid=aa816d75-a4b0-ee11-a569-002248255405
 - https://github.com/microsoft/ALAppExtensions/blob/main/Apps/W1/APIV2/app/src/pages/APIV2Journals.Page.al
 - https://www.kauffmann.nl/2020/03/05/codeunit-apis-in-business-central/
+- https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-creating-and-interacting-with-odatav4-unbound-action
